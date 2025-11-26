@@ -1,0 +1,1 @@
+[{"command":"clang main -Iinclude -o target/main","directory":"/home/aniko/Documents/code/malware/GhostLdr","file":"src/main.c"}]
